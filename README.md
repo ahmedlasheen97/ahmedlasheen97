@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedlasheen97
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently backend developer(laravel)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
